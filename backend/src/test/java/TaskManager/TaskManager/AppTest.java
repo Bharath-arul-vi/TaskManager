@@ -1,4 +1,4 @@
-package MetaStudio.MetaStudio;
+package TaskManager.TaskManager;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
